@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "Landmass",
+			"Enabled": true
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"MacNoEditor",
+		"AllDesktop",
+		"WindowsNoEditor",
+		"LinuxAArch64NoEditor"
+	]
+}
